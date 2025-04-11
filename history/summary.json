@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.aioscenter.com.ico",
     "slug": "aios-center",
     "status": "up",
-    "uptime": "2.08%",
-    "uptimeDay": "2.08%",
-    "uptimeWeek": "2.08%",
-    "uptimeMonth": "2.08%",
-    "uptimeYear": "2.08%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 792,
     "timeDay": 792,
     "timeWeek": 792,
     "timeMonth": 792,
     "timeYear": 792,
-    "dailyMinutesDown": {
-      "2025-04-11": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
