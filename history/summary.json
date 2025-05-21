@@ -4,7 +4,7 @@
     "url": "https://www.aioscenter.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.aioscenter.com.ico",
     "slug": "aios-marketing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "98.70%",
     "uptimeWeek": "99.23%",
@@ -16,6 +16,7 @@
     "timeMonth": 375,
     "timeYear": 467,
     "dailyMinutesDown": {
+      "2025-05-21": 0,
       "2025-05-20": 19,
       "2025-05-16": 36,
       "2025-05-15": 23,
