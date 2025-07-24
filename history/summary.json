@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.aioscenter.com.ico",
     "slug": "aios-marketing",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.65%",
     "time": 427,
     "timeDay": 433,
     "timeWeek": 451,
     "timeMonth": 359,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-07-24": 13,
       "2025-07-23": 40,
       "2025-07-15": 17,
       "2025-07-11": 24,
@@ -46,7 +45,7 @@
     "url": "https://app.aioscenter.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.aioscenter.com.ico",
     "slug": "aios-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,6 +56,8 @@
     "timeWeek": 592,
     "timeMonth": 577,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-24": 0
+    }
   }
 ]
