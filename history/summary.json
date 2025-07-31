@@ -6,13 +6,13 @@
     "slug": "aios-marketing",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.66%",
     "time": 421,
-    "timeDay": 374,
-    "timeWeek": 364,
+    "timeDay": 680,
+    "timeWeek": 354,
     "timeMonth": 353,
     "timeYear": 421,
     "dailyMinutesDown": {
@@ -46,7 +46,7 @@
     "url": "https://app.aioscenter.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.aioscenter.com.ico",
     "slug": "aios-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,6 +57,8 @@
     "timeWeek": 513,
     "timeMonth": 579,
     "timeYear": 560,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-31": 0
+    }
   }
 ]
