@@ -11,7 +11,7 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.69%",
     "time": 470,
-    "timeDay": 245,
+    "timeDay": 176,
     "timeWeek": 763,
     "timeMonth": 587,
     "timeYear": 470,
@@ -47,7 +47,7 @@
     "url": "https://app.aioscenter.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.aioscenter.com.ico",
     "slug": "aios-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,6 +58,8 @@
     "timeWeek": 694,
     "timeMonth": 568,
     "timeYear": 563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-17": 0
+    }
   }
 ]
