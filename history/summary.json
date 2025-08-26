@@ -49,18 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.aioscenter.com.ico",
     "slug": "aios-center",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 562,
     "timeDay": 640,
     "timeWeek": 565,
     "timeMonth": 563,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2025-08-25": 17
+      "2025-08-26": 17,
+      "2025-08-25": 20
     }
   }
 ]
